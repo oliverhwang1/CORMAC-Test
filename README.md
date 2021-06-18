@@ -45,5 +45,5 @@ C. How I would intend for my code to be run:
 
 		d = {'procedure_id': value1, 'type of procedure': value2, 'how long it lasted': value3, 'severity of the condition being addressed': value4, 'severity of post procedure complications': None, 'pain': None, 'recurrence of original condition': None}
 
-	   Then a prediction of success (True or False) is running my function: prediction(rfc, X_features, d).
+	   Then a prediction of success (True or False) is return of my function: prediction(rfc, X_features, d).
 	
